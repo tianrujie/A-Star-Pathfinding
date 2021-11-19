@@ -3,9 +3,16 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+AStarProject/.idea
+AStarProject/Library
+AStarProject/Logs
+AStarProject/obj
+AStarProject/Temp
+AStarProject/AStarProject.sln
 
 # Other files and folders
 .settings/
+.idea
 
 # Executables
 *.swf
