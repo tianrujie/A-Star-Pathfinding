@@ -4,10 +4,10 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 AStarProject/.idea
-AStarProject/Library
-AStarProject/Logs
-AStarProject/obj
-AStarProject/Temp
+AStarProject/Library/
+AStarProject/Logs/
+AStarProject/obj/
+
 AStarProject/AStarProject.sln
 
 # Other files and folders
@@ -19,6 +19,11 @@ AStarProject/AStarProject.sln
 *.air
 *.ipa
 *.apk
+*.user
+*.csproj
+*.csproj.meta
+AStarProject/Library/
+AStarProject/Temp
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
