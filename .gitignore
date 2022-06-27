@@ -7,9 +7,12 @@ AStarProject/.idea
 AStarProject/Library/
 AStarProject/Logs/
 AStarProject/obj/
-
 AStarProject/AStarProject.sln
-
+AStarInDots/AStar In Dots/Temp/
+AStarInDots/AStar In Dots/Library/Artifacts/
+AStarInDots/AStar In Dots/Library/BurstCache/
+AStarInDots/AStar In Dots/Library/
+AStarInDots/AStar In Dots/Logs/
 # Other files and folders
 .settings/
 .idea
